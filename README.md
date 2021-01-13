@@ -1,2 +1,2 @@
-# Notebooks_Binder
+# Notebook_Binder
 Repository with the publication notebooks
